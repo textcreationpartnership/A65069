@@ -1,0 +1,501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tēs pisteōs elegchos, or, The reason of faith briefly discuss'd in a sermon, preach'd at Pauls before the Right Honourable, the Lord Mayor, &amp;c., the third of October, 1658, and publish'd by the order of his lordship, and Court of Aldermen / by Peter Vinke ...</title>
+            <author>Timoreus, Theophilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65069</idno>
+            <idno type="STC">Wing V562</idno>
+            <idno type="STC">ESTC R39404</idno>
+            <idno type="EEBO-CITATION">18395971</idno>
+            <idno type="OCLC">ocm 18395971</idno>
+            <idno type="VID">107481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1134:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tēs pisteōs elegchos, or, The reason of faith briefly discuss'd in a sermon, preach'd at Pauls before the Right Honourable, the Lord Mayor, &amp;c., the third of October, 1658, and publish'd by the order of his lordship, and Court of Aldermen / by Peter Vinke ...</title>
+                  <author>Timoreus, Theophilus.</author>
+               </titleStmt>
+               <extent>[4], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.M. for Ralph Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First three words of title in Greek characters.</note>
+                  <note>Attributed by Wing to Richard Vines, who wrote under the pseudonym of Timoreus.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107481:1"/>
+            <pb facs="tcp:107481:1" rendition="simple:additions"/>
+            <p>ΤΣ ΠΊΣΤΕΩΣ ἜΛΕΤΧΟΣ: OR THE REASON OF FAITH: Briefly diſcuſſ'd in a SERMON, Preach'd at <hi>Pauls</hi> before the Right Honourable, The Lord Mayor, <hi>&amp;c.</hi> The third of <hi>October,</hi> 1658.</p>
+            <p>
+               <hi>And publiſh'd by the Order of his Lordſhip, and Court of Aldermen.</hi>
+            </p>
+            <p>By PETER VINKE B. D. Sometimes fellow of <hi>Pembroke-Hall</hi> in <hi>Cambridge:</hi> and now Miniſter of <hi>M. Corn-hil,</hi> London.</p>
+            <q>
+               <p>Where is the Wiſe? where is the Scribe? Where is the Disputer of this world?</p>
+               <bibl>
+                  <hi>1 Cor. 1.20.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p> <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>
+                  <hi>Clem. Alexandr. lib. 1. Strom.</hi>
+               </bibl>
+            </q>
+            <q>Quantum attinet ad hominis naturam, nihil eſt in co melius quam <hi>mens</hi> &amp; <hi>ratio;</hi> ſed non ſecundum ipſam debet vivere, qui beatè vult vivere: alioquin ſecundùm hominem vivit, cùm ſecundùm Deum vivendum ſit, ut poſſit ad beatitudinem pervenire, propter quam conſequendam, non ſeipſâ de<g ref="char:EOLhyphen"/>bet eſſe contenta, ſed <hi>Deo mens noſtra ſubdenda eſt.</hi> 
+               <bibl>Aug. <hi>lib. 1. Retractation.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. M.</hi> for <hi>Ralph Smith</hi> at the Bible in <hi>Corn-hil,</hi> near the <hi>Royal Exchange.</hi> 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:107481:2"/>
+            <pb facs="tcp:107481:2"/>
+            <head>TO THE RIGHT HONOURABLE, S<hi rend="sup">r</hi> 
+               <hi>RICHARD CHIVERTON</hi> K<hi rend="sup">t</hi>.</head>
+            <head type="sub">Lord Mayor of the CITY of <hi>LONDON,</hi> And to the Honourable Court of Aldermen.</head>
+            <opener>
+               <salute>Right Honourable!</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His enſuing <hi>Sermon</hi> which I never thought ſhould have <hi>breath'd</hi> much above an houre, (unleſſe in them that heard it;) is now <hi>at your command,</hi> to receive a kinde of <hi>new life;</hi> and to walk abroad in the view of all men. it onely ſtayes in a line or two to crave your <hi>protection;</hi> which (being it comes forth only at your <hi>Honours</hi> call) your <hi>goodneſſe</hi> will not, and your <hi>juſtice</hi> cannot deny. — As for the ſubject of this <hi>diſcourſe.</hi> I may truly ſay: it is not unworthy of you, <hi>as men;</hi> but 'tis highly neceſſary for you, as <hi>Chriſtians. Humanity</hi> re<g ref="char:EOLhyphen"/>quires you to skill of the right uſe of <hi>reaſon:</hi> and <hi>Chriſtianity</hi> ex<g ref="char:EOLhyphen"/>pects you ſhould not be ignorant of the Prerogatives of <hi>Faith. Rea<g ref="char:EOLhyphen"/>ſon</hi> indeed makes you <hi>men;</hi> 'tis <hi>Faith</hi> onely that can make you <hi>good men:</hi> and better were it never to have been <hi>men,</hi> than not to have been <hi>good.</hi>
+            </p>
+            <p>I do not at all intend the leaſt prejudice to <hi>Reaſon.</hi> I am not ſo <hi>Cynical</hi> as to bark at that <hi>Moon-light</hi> (this would be but an un<g ref="char:EOLhyphen"/>grateful requital for this Royal gift which our <hi>Creatour</hi> hath be<g ref="char:EOLhyphen"/>ſtow'd upon us) though I cannot equal it, much leſs prefer it to <hi>Faith.</hi> As that <hi>houſhoulder</hi> does not injure his <hi>inferiour</hi> gueſts, when he ſayes unto <hi>them, ſtand ye here;</hi> and to the more <hi>honourable, come up hither.</hi>
+            </p>
+            <pb facs="tcp:107481:3"/>
+            <p> Of the two I confeſs, <hi>Reaſon</hi> as <hi>Leah,</hi> is indeed the <hi>elder,</hi> but ten<g ref="char:EOLhyphen"/>der-<hi>eyed:</hi> and though <hi>ſeven years</hi> ſervice is not too much for <hi>her;</hi> yet how many more would be well ſpent for the obtaintng of her <hi>youn<g ref="char:EOLhyphen"/>ger,</hi> but more amiable ſiſter, <hi>Faith?</hi> though <hi>Reaſon</hi> is the <hi>firſt-born;</hi> yet <hi>Faith</hi> hath the <hi>bleſſing:</hi> and concerning theſe, that <hi>determinati<g ref="char:EOLhyphen"/>on</hi> holds true too. <hi>The elder ſhall ſerve the younger.</hi>
+            </p>
+            <p>But oh! What oppoſition does this meet withal in the minds of men? How hard is it to perſwade them to <hi>become fools;</hi> though it be only as a means to make them <hi>wiſe?</hi> I know not which, if compar'd, doth more exert the <hi>Almighty power</hi> of the <hi>Spirit</hi> of grace; the bringing <hi>into ſubjection</hi> the <hi>high thoughts,</hi> or the <hi>ſtrong luſts</hi> that reſiſted it. I am ſure it is full out as difficult to make the <hi>blinde to ſee,</hi> as it is to make the <hi>lame to walk.</hi>
+            </p>
+            <p>We are then certainly as earneſtly to labour to bring our <hi>mindes,</hi> as our <hi>lives</hi> unto the <hi>obedience of faith.</hi> It is no more lawful in the <hi>things of Religion</hi> to think as we liſt; then it is in our daily conver<g ref="char:EOLhyphen"/>ſation to practice what we pleaſe, <hi>A</hi> defluxion from the head will ſoon corrupt the other parts: and nothing is more dangerous, then to ſuffer this <hi>childe of the bond-woman, Reaſon;</hi> to laugh at <hi>Faith, the heir of the promiſe:</hi> if we mock <hi>God,</hi> or his <hi>Word; he</hi> alſo <hi>will have us in deriſion.</hi>
+            </p>
+            <p>The ſum then of what I have in <hi>this truth's</hi> behalf to require of you; is but what I hope, the juſtice of this <hi>Honourable Court</hi> acts dayly; <hi>ſuum cuique tribuere, to give to every one that which is his.</hi> When any caſe betwixt theſe two parties; <hi>Faith</hi> and <hi>Reaſon;</hi> ſhall be pleaded before you, or rather <hi>in you: give unto Reaſon, the things that are Reaſons;</hi> and <hi>to Faith, the things that are of Faith. Ho<g ref="char:EOLhyphen"/>nour your God</hi> by <hi>believing</hi> things which you do not <hi>ſee,</hi> and he <hi>will honour you,</hi> cauſing you to <hi>ſee</hi> hereafter thoſe things which you do here <hi>believe;</hi> which <hi>mercy</hi> eſpecially I earneſtly beg for you of the <hi>God of mercy,</hi> acknowledging my ſelf,</p>
+            <closer>
+               <salute>Right Honourable!</salute> 
+               <signed>The moſt Obliged to ſerve you in the Lord, PETER VINKE.</signed>
+               <dateline>
+                  <hi>At</hi> Corn-hil, <date>October <hi>26. 1658.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:107481:3"/>
+            <head>THE REASON OF FAITH.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>HEBREWES 11.1.</hi>
+                  </bibl>
+                  <p>Now faith is the ſubſtance of things hoped for; the evidence of things not ſeen.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He bleſſed <hi>Apoſtle</hi> (or whoſoever was the Penman of this Epiſtle) having <hi>told</hi> the believing <hi>Hebrewes</hi> of the great need they had of <hi>pati<g ref="char:EOLhyphen"/>ence, chap.</hi> 10. <hi>ver.</hi> 36. and <hi>fore<g ref="char:EOLhyphen"/>told</hi> the Apoſtaſie of many by rea<g ref="char:EOLhyphen"/>ſon of the want of it, in the words fore-going my Text: In this <hi>Chapter</hi> he ſeaſonably brings in a
+<pb n="2" facs="tcp:107481:4"/>diſcourſe of <hi>faith,</hi> this grace being the beſt <hi>food</hi> to ſtrengthen <hi>patience;</hi> and <hi>phyſick</hi> to purge <hi>Apo<g ref="char:EOLhyphen"/>ſtaſie.</hi>
+            </p>
+            <p>The firſt thing then we ſhall conſider to clear the Context, is the particle, <hi>now</hi> or <hi>but;</hi> Gr. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which as ſome obſerve,<note place="margin">
+                  <hi>Dr. Gouge</hi> in locum.</note> is the note of an <hi>aſſumpti<g ref="char:EOLhyphen"/>on, or minor propoſition</hi> in a <hi>Syllogiſme.</hi> The whole Argument may be fram'd thus, <hi>If faith be the ſub<g ref="char:EOLhyphen"/>ſtance of things hoped for, and the evidence of things not ſeen; the juſt that live by it, as in</hi> chap. 10. ver. 38. <hi>&amp;c. may well be patient, and need not think of drawing back,</hi> ver. 39. <hi>but faith is the ſubſtance, &amp;c.</hi>
+            </p>
+            <p>Hence it is that the Apoſtle throughout this Chapter enlarges only upon this ſubject; and as in this firſt verſe he layes down the <hi>doctrine</hi> of faith, ſo in the following verſes he ſpeaks to the <hi>practice</hi> of it; <hi>Examples</hi> having this advantage above <hi>Pre<g ref="char:EOLhyphen"/>cepts,</hi> that they ſhew their feaſibility or practicable<g ref="char:EOLhyphen"/>neſſe; a believer will not have a harder task en<g ref="char:EOLhyphen"/>joyned him, than faith hath enabled many to un<g ref="char:EOLhyphen"/>dergo, witneſſe the whole <hi>cloud of witneſses</hi> here ſpecified: and therefore he may with the more courage and confidence buckle himſelf unto it. The words themſelves are not a perfect definition of faith by <hi>genus</hi> and <hi>differentia,</hi> faith being of an <hi>indefinite</hi> nature. And how can we look for the perfection of that grace here, the nature of which we cannot ſufficiently comprehend?</p>
+            <p>They are then a two-fold <hi>deſcription</hi> of faith.</p>
+            <p n="1">1. <hi>A formâ internâ.</hi> 'Tis a <hi>ſubſtance,</hi> 'tis an <hi>evidence.</hi>
+            </p>
+            <p n="2">
+               <pb n="3" facs="tcp:107481:4"/> 2. <hi>Ab objectis externis.</hi> Of <hi>things hoped for,</hi> of <hi>things not ſeen.</hi>
+            </p>
+            <p>Each part you ſee hath <hi>twins,</hi> and thoſe very like one another; we intend to ſpeak to them in their order, as they lay in the words.</p>
+            <p>The firſt word that holds forth the internal <hi>form</hi> or nature of faith,<note place="margin">Faiths firſt in<g ref="char:EOLhyphen"/>ternal form. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies</note> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which (together with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the latter part,) is purely <hi>Philoſophi<g ref="char:EOLhyphen"/>cal,</hi> taken out of the <hi>field</hi> of Philoſophy, and planted here in Scripture, <hi>the garden of the Lord.</hi> It ſignifies according to its notation, theſe two things.</p>
+            <p n="1">1. <hi>Subſtance,</hi> which is ſo call'd, <hi>quia ſubſtat ac<g ref="char:EOLhyphen"/>cidentibus, &amp; ea ſuſtinet,</hi>) becauſe it bears up <hi>ac<g ref="char:EOLhyphen"/>cidents,</hi>
+               <note place="margin">
+                  <hi>1.</hi> Subſtantia.</note> which could not be without it. As the <hi>colour</hi> and <hi>dimenſions</hi> of this book could not <hi>be</hi> without the <hi>ſubſtance</hi> of it.</p>
+            <p>Thus faith is the <hi>ſubſtance</hi> that ſuſtains and bears up all other <hi>graces;</hi> 'tis the <hi>primum vivens,</hi> the <hi>heart</hi> in the new man. Does he live? 'tis by <hi>faith,</hi> Rom. 1.17. If he ſtands; 'tis by <hi>faith,</hi> 2 Cor. 1.24. Can he walk too? 'tis by the ſame faith, 2 <hi>Cor.</hi> 5.7. Without this, he is as another man. His patience, unleſſe upon the account of faith, <hi>becauſe thou didſt it,</hi> is but ſtupidity, or a Stoical <hi>apathy:</hi> His hope, unleſſe it be through this grace,<note place="margin">Pſal. 39.9. 2 Theſſ 2.16. Gal. 2.2. <hi>Splendida pec<g ref="char:EOLhyphen"/>cata.</hi>
+               </note> it is not <hi>the good hope,</hi> 'tis preſumption: His mirth, unleſſe he <hi>rejoyces in believing,</hi> is madneſs: Nay, without faith his beſt performances are but the better ſort of ſins; only the hand of faith can lay them upon that Altar which ſanctifies the gift; To do a ſpiritually <hi>living action</hi> in order to the
+<pb n="4" facs="tcp:107481:5"/>ſervice of a <hi>living God.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there muſt be a principal of life within.</p>
+            <p>Whatſoever we do, unleſſe in order to expreſſe our obedience and thankfulneſſe to God through Chriſt, be it never ſo <hi>good</hi> for the <hi>matter</hi> of the action, 'tis not <hi>well</hi> done in the <hi>manner</hi> of it; and God does not ſay if thou doeſt <hi>good,</hi> but if thou doeſt <hi>well</hi> ſhalt thou not be accepted? <hi>Gen.</hi> 4.7. We confeſſe the flowers of morality, (juſt and fair dealings,) may make mens names ſweet amongſt their neighbours; when in the mean time unleſſe they live and act by faith, their perſons and ſervices may ſtink in the Noſtrils of God. Theſe may waſh thy face and hands, but it is faith onely <hi>which can purifie thy heart;</hi>
+               <note place="margin">Acts 15.9.</note> thou art but a Cyclops, a Monſter in Gods ſight if thou haſt not the eye of faith.</p>
+            <p n="2">2.<note place="margin">
+                  <hi>2.</hi> Subſiſtentia</note> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifies <hi>ſubſiſtence,</hi> and <hi>ſubſiſtere is in rerum natura prodire; to ſubſiſt</hi> is to have an <hi>actual being.</hi> Thus faith gives a <hi>be<g ref="char:EOLhyphen"/>ing</hi> to its <hi>objects;</hi> it makes the <hi>things hoped</hi> for, to be as if they now <hi>actually</hi> were; as by a <hi>pro<g ref="char:EOLhyphen"/>ſpective glaſs,</hi> things very far diſtant ſeem cloſe by to the eye of the body: ſo by faith, the <hi>promiſes</hi> (though many of them not to come till the end of all things) appear at hand: Hence the <hi>Syriack In<g ref="char:EOLhyphen"/>terpreter</hi> reads theſe words thus, <hi>Eſt. autem fides certitudo de iis — rebus quae ſunt in ſpe, ac ſi jam extiterunt actu.</hi> A believer is as willing to have Gods promiſe, as its performance; and dares take his <hi>word</hi> as readily as preſent <hi>payment.</hi> What the Schools ſay of the <hi>divine intellect,</hi> I may ſay of all
+<pb n="5" facs="tcp:107481:5"/>that do partake of the <hi>divine nature,</hi> to ſuch, <hi>omnia coexiſtunt,</hi> all things are as if preſent with them: if they look backward to the Creation of the world, their eye of faith views it as clearly as if they had been amongſt the <hi>Morning-ſtars</hi> that <hi>ſhou<g ref="char:EOLhyphen"/>ted when the foundations of the earth were laid.</hi>
+               <note place="margin">Job 38.6, 7.</note> And if they look forward to the diſſolution of all things,<note place="margin">Rev. 20.11.</note> they ſee the <hi>heavens and earth already flee<g ref="char:EOLhyphen"/>ing away.</hi>
+            </p>
+            <p>Give me leave to raiſe this note a little higher; Some read the following word, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) ac<g ref="char:EOLhyphen"/>tively,<note place="margin">Aug. Epiſt. <hi>117.</hi> ad Paul. Tra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>79.</hi> in Johan.</note> as Saint <hi>Auſtin</hi> amongſt others: and then the ſenſe would be, faith is the very <hi>ſubſiſtence of them that hope;</hi> to adde a word to what I hinted but now. Faith is the <hi>differentia conſtitutiva</hi> of a <hi>Chri<g ref="char:EOLhyphen"/>ſtian;</hi> as reaſon makes us men, ſo faith makes us Chriſtians. He that followes ſenſual objects, and is taken with them, lives the life of a <hi>beaſt.</hi> He that lives according to the dictates of reaſon, (deals fairely and ſquarely, (as you uſe to ſpeak) he lives the life of a <hi>man;</hi>
+               <note place="margin">Rom. 16.26.</note> but he that lives in the obedi<g ref="char:EOLhyphen"/>ence of faith, when he prayes, prayes in faith; when he hears, mixes the Word with faith, &amp;c. This is <hi>he</hi> that lives indeed the life of a <hi>Chriſtian:</hi> Nay, he liveth the life of God, delighted with, and joying in the ſame objects with God; to him onely 'tis given <hi>intelligere ut Angelus,</hi> and <hi>Velle ut Deus:</hi> to underſtand as Angels do, and to will as his God does.</p>
+            <p>The <hi>object</hi> of faith,<note place="margin">2. Its object. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> or the things of which faith is the <hi>ſubſtance,</hi> are call'd here <hi>things hoped for,</hi> which becauſe they are the ſame with the <hi>things not
+<pb n="6" facs="tcp:107481:6"/>ſeen,</hi> as appears by <hi>Rom.</hi> 8.24. I ſhall ſpeak of them together, not being able to takeany notice of the leſſe material differences which ſome make betwixt them. Come we rather to the ſecond <hi>deſcription:</hi> in which we ſhall ſpeak more to that, which is the <hi>buſineſſe</hi> of the Text.</p>
+            <p>The other word that the Apoſtle uſes to expreſs the nature of <hi>faith</hi> by,<note place="margin">The other in<g ref="char:EOLhyphen"/>ternal form of faith. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; it ſignifies a <hi>demon<g ref="char:EOLhyphen"/>ſtration</hi> or undeniable proof. Thus the <hi>Philoſo<g ref="char:EOLhyphen"/>pher</hi> frequently, and in this ſenſe <hi>Scripture</hi> uſes it, as <hi>John</hi> 16.8. 'tis ſaid of the <hi>Spirit,</hi> that when he is come, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e. he ſhall convince the world.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">Chryſoſt. in loc.</note> He ſhall bring ſuch arguments and <hi>evidances</hi> as ſhall take away all excuſe.</p>
+            <p>Faith then is the <hi>evidence</hi> or <hi>demonſtrative ar<g ref="char:EOLhyphen"/>gument:</hi> that is; the ſouls believing in him that ſpeaks; commands, promiſes, threatens in the <hi>Word,</hi> is inſtead of ten thouſand arguments to prove the righteouſneſſe and truth of what it findes there recorded.</p>
+            <p>Faith, as ſuch, does not at all conſider the pro<g ref="char:EOLhyphen"/>bability or improbability of the things themſelves which are recorded in God's Words; but it looks ſingly at the truth, and <hi>Authority</hi> of the Speaker. <hi>Credimus quia legimus.</hi>
+            </p>
+            <p>The Arguments which are drawn for the confir<g ref="char:EOLhyphen"/>mation of our Religion from Myracles, the num<g ref="char:EOLhyphen"/>ber of its Martyrs, it admirable ſucceſſe, and con<g ref="char:EOLhyphen"/>ſent of all its Myſteries, the correſpondency it hath with reaſon, are indeed powerful conſiderati<g ref="char:EOLhyphen"/>ons to make eaſie and familiar the actings of Faith,
+<pb n="7" facs="tcp:107481:6"/>but Gods faithfulneſſe is the onely motive of Faith. And in this conſiſts the maine difference betweene <hi>Faith</hi> and <hi>Science.</hi>
+               <note place="margin">Scire eſt excau fis cognoſcere.</note> In Arts and Sciences we do not give our aſſent to any thing, till we have found out its nature, and cauſes: but in matters of Faith we firſt aſſent and believe God on his word; and then poſſibly we ſearch after the reaſon of the things we have believed: not for our own ſatisfaction (to whom Gods Authority is foundation ſtrong enough to build upon) but <hi>that we may be able and ready to give an anſwer to them that ask us a reaſon of our hope,</hi> 1 Pet. 3.15.</p>
+            <p>And is not this evidence ſtrong enough to a be<g ref="char:EOLhyphen"/>liever?</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. He hath Gods Word for what he believes. <hi>Dictum Jehovae, The Word of the Lord came, &amp;c.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Not a bare word, but his ſolemn promiſes, <hi>Rom.</hi> 1.2.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Many of theſe things are confirmed with an Oath too, <hi>Heb.</hi> 6.13.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. To which alſo God hath put his ſeal, <hi>Rom.</hi> 4.11.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. And given actually an earneſt of them all in their hearts that believe, 2 <hi>Cor.</hi> 1.22.</item>
+            </list>
+            <p>Surely then the Believers <hi>Thus' ſaith the Lord,</hi> is a better argument than the <hi>diſputers</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Thus ſaith the Philoſopher.</hi>
+            </p>
+            <p>Let then others give it for a Rule (as the Phi<g ref="char:EOLhyphen"/>loſophers did of old) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to receive nothing upon the credit of whomſoever. Or according to the late Mode, <hi>To doubt of all things.</hi> The be<g ref="char:EOLhyphen"/>lievers way is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to take Gods Word; and
+<pb n="8" facs="tcp:107481:7"/>to think himſelf well enough aſſured of any thing that God hath aſſerted there, though at preſent it be <hi>not ſeen.</hi>
+            </p>
+            <p>That is the other property of the Object of Faith,<note place="margin">The other ex<g ref="char:EOLhyphen"/>preſſion of faiths object. 'tis <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>It is not ſeen.</hi> That is, it is not, it cannot be comprehended by ſenſe or reaſon.</p>
+            <p>Thus throughout the whole Sphere of faith's activity, its object does not appear.</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> In <hi>things paſt,</hi> it believes <hi>the Creation of the world,</hi>
+               <note place="margin">Heb. 11.3.</note> 
+               <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> In <hi>things preſent,</hi> Faith believes the <hi>Providence of God,</hi>
+               <note place="margin">Coloſſ. 3 1.</note> 
+               <hi>the ſitting of Chriſt at the right hand of the Father, his Interceſſion, &amp;c.</hi>
+            </p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>In things to come, It believes the Reſurrecti<g ref="char:EOLhyphen"/>on, Judgment,</hi>
+               <note place="margin">Pſal. 96.13.</note> 
+               <hi>&amp;c.</hi> and yet none of theſe are <hi>ſeen.</hi>
+            </p>
+            <p>Nay, how many things does the Chriſtian <hi>believe,</hi> when the very contrary unto them ſeem to appear? as that a <hi>Virgin</hi> ſhould conceive, that <hi>God</hi> ſhould become man, &amp;c. Unto which the unbelievers blaſphemouſly reply, <hi>Tam Jupiter Taurus, quam Deus homo.</hi>
+            </p>
+            <p>I ſhall make ſome further inſtances; the rather becauſe this is a main foundation of that truth which will cloſe up all.</p>
+            <p n="1">1. Faith believes the doctrine of Juſtification, that they who are <hi>called,</hi> are <hi>juſtified,</hi> Rom. 8.30. and yet what abundance of guilt is the true believer hanted withal? what bitter complaints and teares come daily from him?</p>
+            <p n="2">2. Scripture tells us that the people of God are a <hi>holy Nation,</hi> 1 Pet. 2.9. and do they <hi>ſee</hi> this? Is not the Canaanite ſtill in the land? Oh what dirty
+<pb n="9" facs="tcp:107481:7"/>corners doe the Sunne diſcover in that roome or heart where it ſhines? when the Sunne is up, what abundance of duſt flies about when the houſe is ſweeping? what ſwarmes of corruptions whileſt the heart is a cleanſing.</p>
+            <p n="3">3. Gods Word ſayes, that they <hi>are bleſsed that truſt in him,</hi> Pſal. 2.12. But certainly it is an hidden and <hi>inviſible</hi> happineſſe? is it a happineſſe to be <hi>impriſon'd, mock'd, ſton'd,</hi> &amp;c. as the Wor<g ref="char:EOLhyphen"/>thies were, we read of in this Chapter?</p>
+            <p n="4">4. There is an <hi>abundance of all things promiſed to them that fear God,</hi> Pſal. 34.9. And didſt e<g ref="char:EOLhyphen"/>ver <hi>ſee</hi> this? I mean by <hi>ſenſe or reaſon;</hi> it appears indeed they have an <hi>abundance,</hi> but <hi>of all miſeries,</hi> not otherwiſe: <hi>Paul</hi> had abundance of <hi>Ship-wracks, Scourgings, Stonings,</hi> 2 Cor. 11.25. but <hi>nothing</hi> elſe, 2 <hi>Cor.</hi> 6.10.</p>
+            <p n="5">5. Gods promiſe is, that <hi>he will be with us,</hi> Iſa. 43.2. Certainly this does not <hi>appear,</hi> unleſs to the eye of faith; who, but a very ſtrong belie<g ref="char:EOLhyphen"/>ver could have ſeen God with his people in <hi>Gideon</hi>'s time? <hi>Judges</hi> 6.13.</p>
+            <p n="6">6. The children of God have an eternal life aſ<g ref="char:EOLhyphen"/>ſured to them, <hi>Rev.</hi> 2.10. What appears in or<g ref="char:EOLhyphen"/>der to this? they dye as well as others; and <hi>where is the promiſe?</hi>
+            </p>
+            <p n="7">7. Ay but there ſhall be a reſurrection, 1 <hi>Cor.</hi> 15. This is as little <hi>ſeen</hi> as the other; what preparati<g ref="char:EOLhyphen"/>on is there towards it after death? the body runs through many changes; into corruption, wormes meat, duſt, &amp;c. but ſtill there is nothing <hi>ſeen</hi> in the <hi>charnal houſes</hi> and <hi>ſepulchres</hi> that ſeems a fit
+<pb n="10" facs="tcp:107481:8"/>ingredient into the <hi>glorious body</hi> that is promiſed.<note place="margin">1 Cor. 15.43.</note> To forbear more particulars; If ſenſe and reaſon were to give in their verdicts on them, it would be at beſt but a <hi>non conſtat,</hi> there is not one of them <hi>evident.</hi>
+            </p>
+            <p>And Gods hand appears much in thus ordering the matter:<note place="margin">Reaſons why the object of faith is thus <hi>not ſeen.</hi>
+               </note> that <hi>reaſon</hi> its ſelf ſhould not attain to the things pertaining to <hi>God.</hi>
+            </p>
+            <p n="1">1. By theſe means God ſets forth the vanity of the wiſdome of the fleſh, which 'tis his deſigne to confound and debaſe, 1 <hi>Cor.</hi> 1.19, 20.</p>
+            <p n="2">2. God thus advances his own glory; all ſa<g ref="char:EOLhyphen"/>ving knowledge and heavenly wiſdome being ne<g ref="char:EOLhyphen"/>ceſſarily his gift:<note place="margin">Hoc fides cre<g ref="char:EOLhyphen"/>dat, intelligen<g ref="char:EOLhyphen"/>tia non requirat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e aut non in<g ref="char:EOLhyphen"/>ventum pute<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> incredibile, aut repertum non credat ſingulare. <hi>Bern. de cata. Domini. 1 Cor. 2.14.</hi> Prudentius.</note> when the nobleſt plant in natures garden <hi>(reaſon)</hi> cannot produce ſuch fruit.</p>
+            <p n="3">3. Thus God obſerves a juſt proportion between the object and faculty; <hi>ſpiritual objects</hi> require a <hi>ſpiri<g ref="char:EOLhyphen"/>tual faculty:</hi> as the eye of the body cannot ſee ſpi<g ref="char:EOLhyphen"/>ritual <hi>ſubſtances,</hi> no more can a carnal minde diſ<g ref="char:EOLhyphen"/>cerne ſpiritual <hi>truths; nil diurnum nox capit.</hi> To omit other reaſons.</p>
+            <p>Having thus explained the words; that which I ſhall pitch upon, is the reſult of them all, eſpecially the latter clauſe; in this <hi>obſervation.</hi>
+            </p>
+            <p>
+               <hi>That faith only is the evidence of things not ſeen;</hi>
+               <note place="margin">Obſerv.</note> when the other faculties cannot diſcover them, but look upon them as doubtful, if not falſe; faith accounts them <hi>evident</hi> and <hi>certain.</hi> For the underſtanding of this, we muſt know that every thing is properly <hi>evident</hi> to that <hi>faculty</hi> to which it does belong, as <hi>ſenſible things</hi> are obvious to <hi>ſenſe; rational concluſions</hi> are approv'd of by
+<pb n="11" facs="tcp:107481:8"/>
+               <hi>reaſon:</hi> and the <hi>things of God</hi> are in the <hi>ſphaere</hi> on<g ref="char:EOLhyphen"/>ly of faith. Now theſe three, ſenſe,<note place="margin">Omne verum à quocunque ve<g ref="char:EOLhyphen"/>nit, a Spiritu ſancto venit. <hi>Aug.</hi>
+               </note> reaſon and faith, being all from God, (his works in man) cannot be contrary one to another: neither does a<g ref="char:EOLhyphen"/>ny one of them deſtroy the other: neither can any thing be true in one, that is falſe in another, if right<g ref="char:EOLhyphen"/>ly underſtood. As for example: when <hi>ſenſe</hi> ſayes that much drink is good for one in a Feaver or Dropſie; <hi>reaſon</hi> does not contradict this; that to <hi>ſenſe</hi> 'tis good; only upon a better account it cor<g ref="char:EOLhyphen"/>rects its <hi>judgment:</hi> ſo when <hi>reaſon</hi> dictates that <hi>no<g ref="char:EOLhyphen"/>thing can be made out of nothing,</hi> and ſo would de<g ref="char:EOLhyphen"/>ny the Creation; <hi>that when the privation is total, the habit cannot be introduc'd again,</hi> and from thence would deny the Reſurrection: Faith does not deny but that theſe <hi>axiomes</hi> as to <hi>ſecond cauſes,</hi> and in the lower orbe of <hi>reaſon</hi> are true; only it corrects their malignity by ſhewing <hi>a more excellent way;</hi> and bidding of us look a ſtory higher, unto <hi>God, unto whom all things are poſsible.</hi>
+            </p>
+            <p>And as if you would act <hi>rationally,</hi> you muſt <hi>claudere quinque feneſtras,</hi> not follow your ſenſual appetites; ſo if you will act <hi>religiouſly,</hi> you will be forc'd in many caſes to ſay with <hi>Luther, tu ſtulta ratio, tace,</hi> thou fooliſh <hi>reaſon,</hi> give way. Let our <hi>Apoſtle</hi> be heard in this caſe, who tells us con<g ref="char:EOLhyphen"/>cerning the <hi>myſteries of Religion,</hi> 1 Cor. 2.9. <hi>that eye hath not ſeen, nor eare heard,</hi> (they are out of the reach of <hi>ſenſe</hi>) <hi>neither have they entred in<g ref="char:EOLhyphen"/>to the heart of man;</hi> (they exceed the capacity of <hi>reaſon</hi>) — And therefore when a ſoul is con<g ref="char:EOLhyphen"/>quered, and taken in for God, the <hi>Articles</hi> of
+<pb n="12" facs="tcp:107481:9"/>its <hi>Surrender</hi> are, that it <hi>ſhould now caſt down ima<g ref="char:EOLhyphen"/>ginations, and every high thing that exalts it ſelf</hi>
+               <note n="*" place="margin">Adverſus ſci<g ref="char:EOLhyphen"/>entiam Dei, quae eſt Chriſtiano<g ref="char:EOLhyphen"/>rum fides. <hi>Bern. Ad Mili<g ref="char:EOLhyphen"/>tes Templi. Iſa. 54.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> 
+               <hi>againſt the knowledge of God; and bring into captivity every thought</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>to the obedience of Chriſt,</hi> 2 Cor. 10.5. So that henceforth this ſoul muſt according to this <hi>agreement</hi> give up its ſelf to be <hi>taught of God</hi> thoſe things which its nature is neither able nor willing otherwiſe to con<g ref="char:EOLhyphen"/>ceive of.</p>
+            <p>I know I am upon a tickliſh point. This truth ſtands betwixt the <hi>Scylla</hi> of <hi>Enthyſiaſts,</hi> who are ready to decry every thing becauſe it is rational: and the <hi>Charybdis</hi> of Socinians, who cavil at e<g ref="char:EOLhyphen"/>very thing that is above the level of <hi>their</hi> reaſon: as if they needed to fear to be guilty of blinde obe<g ref="char:EOLhyphen"/>dience, when they have the Sun of Righteouſ<g ref="char:EOLhyphen"/>neſſe, God in his Word, to go before them. I ſhall endeavour to do ſomething towards the reſolu<g ref="char:EOLhyphen"/>tion of this great <hi>caſe</hi> in ſeveral particulars. I will not call it my <hi>award</hi> betwixt theſe two <hi>parties, faith</hi> and <hi>reaſon:</hi> yet I ſhall labour to give to each its due.<note place="margin">The uſe of rea<g ref="char:EOLhyphen"/>ſon and faith laid down, 1. Poſitively. 1. In Civil Affairs.</note>
+            </p>
+            <p n="1">1. Poſitively.</p>
+            <p n="1">1. 'Tis granted on all ſides that <hi>reaſon</hi> hath its uſe in Civil Affairs and Worldly Matters; thoſe that deny it to be a <hi>Jacob's ladder</hi> to climb up into <hi>heaven by,</hi> acknowledge it to be an uſeful <hi>ſtaffe</hi> to walk upon <hi>earth</hi> withal. We are not to pull out this <hi>eye</hi> becauſe we cannot look ſtedfaſtly with it upon the Sunne. The Muſitian does not cut off the ſtrings and throw them away becauſe the In<g ref="char:EOLhyphen"/>ſtrument is out of tune.</p>
+            <pb n="13" facs="tcp:107481:9"/>
+            <p> Nay more,<note place="margin">2. In Religion Matters.</note> 
+               <hi>reaſon</hi> is uſeful in the <hi>things of God.</hi>
+            </p>
+            <p n="1">1. <hi>Reaſon</hi> is neceſſary for the converſion of Pa<g ref="char:EOLhyphen"/>gans and Infidels to the faith <hi>of</hi> Chriſt; the very <hi>milk of the Word</hi> is too <hi>ſtrong meat</hi> for ſuch at firſt. 'Tis in vain to alledge <hi>Scripture</hi> to ſuch as are not yet induc'd to believe the authority of it. We muſt deal with ſuch, as men that cure the bodily blinde; not bring them at firſt to gaze upon the Sunne, but uſe them to leſſer lights, till at laſt they be able to look upon the greateſt. Thus nature does not expoſe us to the Sun-beams immediately out of pitchy darkneſſe, till ſhe hath inured us by a <hi>twilight</hi> to bear them.</p>
+            <p n="2">2. Reaſon is the <hi>ſubject</hi> of divine knowledge in a believing ſoul, 'tis the veſſel which God fills with the oile of <hi>this</hi> grace. God in Regeneration does not make another faculty, <hi>another eye,</hi> but purges it. As at the firſt time of writing the Law, God afforded the Tables and writing too;<note place="margin">Exod. 24.12. Exod. 34.1.</note> but at the renewing of it, <hi>Moſes provided the Tables,</hi> though the writing ſtill was Gods; in our Creation, we have heart and holineſſe, both minde and knowledge, Tables and writing from God; but in our renovati<g ref="char:EOLhyphen"/>on God takes the faculties which we have already, and engraves his Image on them; God makes all things indeed <hi>new</hi> in <hi>quality,</hi> not in <hi>ſubſtance.</hi> And this is the greater miracle of the two, that the ſame man ſhould by the ſame faculty apprehend the ſame things ſo diverſly from what he did in his un<g ref="char:EOLhyphen"/>regeneracy; worldly things which were ſo great in his eyes (as when the proſpective glaſſe is turn'd)
+<pb n="14" facs="tcp:107481:10"/>ſeem now very ſmall and inconſiderable: and the things of God which did ſcarce appear unto him, (as if he had now got Galileo's glaſſe to look on the heavens withal) he views them in their juſt di<g ref="char:EOLhyphen"/>menſions.</p>
+            <p n="3">3. Reaſon is the <hi>Inſtrument</hi> that God makes uſe of to direct and guide the <hi>whole man</hi> by. 'Tis <hi>the Rudder in the ſhip, let it be bound for what place it will;</hi> that as whatſoever we hear, we hear by the ear; and whatſoever we ſee, we ſee by the eye: ſo whatſoever we underſtand, we underſtand by this <hi>faculty.</hi> By the eye <hi>of our underſtanding (when en<g ref="char:EOLhyphen"/>lightned) we know what is the hope of our calling, &amp;c.</hi> Epheſ. 1.18.</p>
+            <p>By <hi>reaſon</hi> we know what may be inferr'd from Scripture, and what not. Hence, not to mention the <hi>Trinity, &amp;c.</hi> we grant, and uſe two Sacraments, becauſe reaſon infers theſe from Scripture, and on the other ſide we reject a great many that others would bring into the Church, becauſe we cannot by <hi>reaſon</hi> prove them to be commanded there.</p>
+            <p n="4">4. I may adde moreover, there is nothing which <hi>faith</hi> believes, but what is, when throughly un<g ref="char:EOLhyphen"/>derſtood, agreeable to <hi>right reaſon.</hi> It may be above it,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plutarch. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> it cannot, as you have heard, be againſt it. True reaſon did never go about to compriſe the <hi>Bible</hi> in its own nut-ſhell; faith it ſelf is but a kind <hi>of a new life</hi> of reaſon. 'Tis the higheſt <hi>reaſon</hi> to believe what God ſayes without further <hi>enqui<g ref="char:EOLhyphen"/>ry.</hi> If ye have not made your ſelves more the chil<g ref="char:EOLhyphen"/>dren of darkneſſe, than ye yet were by nature; and
+<pb n="15" facs="tcp:107481:10"/>if God hath not in judgment blinded you, and given you over to a reprobate minde, does not your very reaſon tell you how vain it is to meaſure immenſity by a finite compaſſe; or ſpan eternity by your im<g ref="char:EOLhyphen"/>perfect duration? To fathom the depth of the <hi>Wiſdome of God</hi> by the line and plummet of the <hi>wiſdome of man;</hi> Rom. 11.33. I have read of one of the Antients, (I think 'twas <hi>Auſtin</hi>) who be<g ref="char:EOLhyphen"/>ing very thoughtful about the Nature and Eſſence of God; he eſpies as he was meditating by the Sea ſhoar, a young man taking the water out of the Sea with a Ladle, and putting of it into a little hole which he had made. The <hi>Father</hi> demands the reaſon of ſo frivolous an employment. The young man tells him, that he was emptying the ſea into that hole; and that he might ſooner make the vaſt Ocean to be contained in that ſmall place, than the other ſhould comprehend the deep Myſte<g ref="char:EOLhyphen"/>ries he was meditating of, in his ſhallow under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>Being we have freely granted thus much,<note place="margin">Negatively.</note> I hope none will be offended if we dare not go further in its commendation; but muſt, leſt we ſhould en<g ref="char:EOLhyphen"/>croach on <hi>Faith,</hi> preſcribe ſome bounds to <hi>Reaſon.</hi>
+            </p>
+            <p n="1">1. <hi>Reaſon</hi> may not be the <hi>Rule</hi> to try or mea<g ref="char:EOLhyphen"/>ſure revealed truths by; that you ſhould believe no more than what it affirms to. I am not to do any thing <hi>in Religion,</hi> becauſe I think it rational, it may be <hi>will-worſhip,</hi> but <hi>to the Law and to the Teſtimony.</hi>
+               <note place="margin">Iſa. 8.20.</note> Neither are we to admit only ſo much of <hi>Scripture,</hi> as we fancy to be conſonant to <hi>reaſon;</hi> but we are to admit ſo much only of <hi>reaſon,</hi> as we
+<pb n="16" facs="tcp:107481:11"/>are ſure is not contrary to Scripture; the leſſer gives way to the greater. God made the Scripture-light as the Sunne to <hi>rule</hi> the Goſpel-day: the Moon-light of <hi>reaſon</hi> he makes to rule the night; amongſt thoſe that <hi>ſit in darkneſs, and in the ſha<g ref="char:EOLhyphen"/>dow of death.</hi> And if at any time we go to Law with <hi>revealed</hi> truths before this <hi>Heathen Judge, reaſon:</hi> we might win the caſe indeed; but loſe truth, and hazard our ſouls.</p>
+            <p>The grounds of this aſſertion, are,</p>
+            <p n="1">1. The impotency of <hi>reaſon;</hi> this eye is blood<g ref="char:EOLhyphen"/>ſhot, it cannot ſee throughly into <hi>natural cauſes:</hi> if you think it can, tell me from whence comes the heat of the ſtomack, the ſtrength of the nether jaw: ſtand upon the banks of our <hi>Euripus,</hi> the <hi>Thames,</hi> and give a ſatisfactory reaſon of its eb<g ref="char:EOLhyphen"/>bing and flowing: Or anſwer me thoſe queſtions propounded in the 36. 37, 38. Chapters of <hi>Job.</hi> And if thy reaſon be either not faithful or able <hi>in its own things,</hi> who will commit unto it the reſolu<g ref="char:EOLhyphen"/>tion of thoſe things that are not its own?</p>
+            <p n="2">2. But ſuppoſe it had not contracted any <hi>impo<g ref="char:EOLhyphen"/>tency,</hi> yet at beſt, <hi>reaſon</hi> is fallible, and may be de<g ref="char:EOLhyphen"/>ceiv'd. The eye is the moſt certain of all the ſenſes, and yet I have read of twenty wayes where<g ref="char:EOLhyphen"/>by it may be deceived in its <hi>Object.</hi> I am ſure there are many more wayes whereby this <hi>eye</hi> of the minde may be impoſed upon; reaſon at beſt is a <hi>creature:</hi>
+               <note place="margin">
+                  <hi>Whittaker,</hi> de authoritate Scripturae.</note> it hath erred, it may erre, and we ſhould be alwayes at incertainties, if we had not an <hi>infallible</hi> Rule for our ſouls, ſomething which may be belie<g ref="char:EOLhyphen"/>ved for its own ſake, which only Gods Word may ſafely be.</p>
+            <pb n="17" facs="tcp:107481:11"/>
+            <p> Nay, never did Gods children erre more dange<g ref="char:EOLhyphen"/>rouſly then when they eyed natural <hi>cauſes</hi> and <hi>rea<g ref="char:EOLhyphen"/>ſon</hi> too much. 'Twas the cauſe of <hi>Sarah</hi>'s laugh<g ref="char:EOLhyphen"/>ing,<note place="margin">Gen. 18.12. Luke 1.18. Gal. 1.16.</note> 
+               <hi>after I am waxed old, ſhall I have pleaſure?</hi> and of <hi>Zechariah</hi>'s doubting, <hi>I am an old man, and my wife well ſtricken in years.</hi> And there<g ref="char:EOLhyphen"/>fore Saint <hi>Paul</hi> ſayes, that when he was call'd to <hi>be an Apoſtle,</hi> to <hi>go and preach amongſt the Hea<g ref="char:EOLhyphen"/>thens,</hi> (in the midſt of contempt and perſecuti<g ref="char:EOLhyphen"/>on) <hi>he conferr'd not with fleſh and blood;</hi> cer<g ref="char:EOLhyphen"/>tainly if he had, they would have ſaid to <hi>him</hi> too, <hi>Maſter, ſpare thy ſelf.</hi>
+            </p>
+            <p>Though then we yield that reaſon is a light; yet we ſay alſo 'tis but <hi>noctiluca cerebri,</hi>
+               <note place="margin">Aug. Prov. 20.27.</note> a glow-worm light; for all its luſtre, we have ſtill need of the Sun. I grant it is <hi>the candle of the Lord:</hi> but I am ſure withal that it hath need of ſnuffing; and if at any time it be a rule, it muſt be (<hi>regula regu<g ref="char:EOLhyphen"/>lata,</hi> not <hi>regulans</hi>) no further a <hi>Rule</hi> then it is its ſelf <hi>ruled</hi> according to Scripture, and the Word of God.</p>
+            <p>
+               <hi>Conſider,</hi>
+               <note place="margin">
+                  <hi>2</hi> Negatively.</note> That that very <hi>truth, promiſe, &amp;c.</hi> which you do believe, does not benefit your ſouls <hi>as to eternity,</hi> in that 'tis <hi>rational,</hi> but as 'tis <hi>belie<g ref="char:EOLhyphen"/>ved:</hi> for example, that God might commiſerate Mankinde, and finde out wayes for its recovery, is <hi>rational;</hi> but as this is <hi>rational barely,</hi> it does not at all conduce to our ſalvation, but as there hath been a Declaration to this purpoſe made by God in his Word. An <hi>aſſertion</hi> or <hi>principle</hi> how <hi>rational</hi> ſoever, is low, faint and dead, as to the begetting or carrying on of a ſpiritual life, till the <hi>Spirit</hi> it
+<pb n="18" facs="tcp:107481:12"/>ſelf does animate and enliven it; 'tis <hi>Gods</hi> ſpeak<g ref="char:EOLhyphen"/>ing of theſe, or the like truths, in Scripture, and to the heart, which makes them <hi>ſeed;</hi> apt for the propagating a <hi>new life.</hi> The <hi>reaſon</hi> in them is but as a ſtick that bears up a Vine or Plant more precious than its ſelf, but gives it not life. The life of faith is from its ſelf, not from reaſon. The ſum of what hath been ſpoken amounts to thus much: Reaſon is our <hi>Reuben, the top of our excellency,</hi>
+               <note place="margin">Apollonius Ty<g ref="char:EOLhyphen"/>aneus, Muſoni<g ref="char:EOLhyphen"/>us, Vorſtius, &amp;c</note> (as men) but if it goes up to our <hi>fathers bed, it ſhall not excell;</hi> and experience of all ages hath taught us, that none have proved more deſperate enemies to the truth of Religion, than many o<g ref="char:EOLhyphen"/>therwiſe excellently parted men. Thus we have heard of ſome who having <hi>digged too deep,</hi> have met with ſuch damps as have extinguiſh'd the candle they were let down withal; thus learning, as a <hi>flaſh of lightning,</hi> leaves men in the greater dark<g ref="char:EOLhyphen"/>neſſe. And ſurely there is much of that commina<g ref="char:EOLhyphen"/>tion, <hi>Iſa.</hi> 7 9. fulfill'd amongſt us, which the <hi>Septu<g ref="char:EOLhyphen"/>agint,</hi> and many of the Antients read thus, <hi>if ye will not believe, ye ſhall not underſtand;</hi>
+               <note place="margin">Cypr. lib. <hi>1.</hi> ad<g ref="char:EOLhyphen"/>verſus Judaeot, Tertull. adver<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Marc. <hi>Pſal. 25.9.1 Cor. 1.26.</hi>
+               </note> the things of God are to be <hi>believed</hi> that they may be under<g ref="char:EOLhyphen"/>ſtood. The modeſt and humble <hi>believer,</hi> not the captious and proud <hi>Philoſopher,</hi> hath the promiſe to underſtand them. As beaſts, though of more ex<g ref="char:EOLhyphen"/>quiſite ſenſe then men, yet cannot determine of humane affairs; ſo men, if barely, though excel<g ref="char:EOLhyphen"/>lently rational, will be as much at a loſſe in heaven<g ref="char:EOLhyphen"/>ly matters.</p>
+            <p>God would not that a tool, any ſharp inſtru<g ref="char:EOLhyphen"/>ment ſhould be lifted up towards the making of his
+<pb n="19" facs="tcp:107481:12"/>
+               <hi>Altar;</hi>
+               <note place="margin">Exod <hi>20.25.</hi> C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſſin <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſaincte Cour.</note> ſome think the <hi>truth</hi> and ſubſtance of that Law was, to ſhew, how much God did abhorre to have the <hi>point</hi> of the acuteſt <hi>reaſon</hi> lifted up upon the Altar of faith.</p>
+            <p>How much then certainly are they to blame who draw the Curtains, and ſhut out in their very <hi>Ser<g ref="char:EOLhyphen"/>mons</hi> and <hi>ſpiritual diſcourſes,</hi> the <hi>day-light of Scripture,</hi> that they may enlighten them, as they think the better, by the <hi>candle of reaſon?</hi> but I would not prevent my ſelf in the application, which I am now come unto.</p>
+            <p>This Scripture <hi>inſtructs, exhorts, comforts;</hi>
+               <note place="margin">Applic.</note> 'tis uſeful firſt for <hi>inſtruction;</hi> we may hence learn 1. The <hi>nature of faith;</hi> and 2. the <hi>condition of the faithful.</hi>
+            </p>
+            <p>
+               <hi>The nature of faith,</hi>
+               <note place="margin">1. Inſtruction which is two<g ref="char:EOLhyphen"/>fold.</note> and concerning it theſe two things.</p>
+            <p n="1">1. 'Tis not an <hi>opinion</hi> barely,<note place="margin">1. In the nature of faith.</note> 'tis an <hi>evi<g ref="char:EOLhyphen"/>dence.</hi>
+            </p>
+            <p>But yet ſecondly,<note place="margin">1. 'Tis not a bare opinion.</note> 'tis not an abſolute <hi>aſsurance:</hi> for 'tis <hi>of things not ſeen.</hi>
+            </p>
+            <p>In the firſt place we hence learn, that true faith is not a bare <hi>opinion or imagination;</hi> there are theſe two remarkable differences between them.</p>
+            <p>For firſt, the object of <hi>opinion</hi> is ſomething look'd upon as in its own nature uncertain; the object of faith as in its ſelf <hi>certain.</hi> The <hi>Scepticks,</hi> thoſe great <hi>Opinioniſts</hi> held, that there was nothing cer<g ref="char:EOLhyphen"/>tain; but notwithſtanding whatſoever was ſaid for any matter to day, as much might be ſaid on the contrary ſide to morrow. But <hi>believers</hi> build upon a word which is not <hi>Yea</hi> and <hi>Nay,</hi> changeable and
+<pb n="20" facs="tcp:107481:13"/>inconſtant:<note place="margin">2 Cor. 1.18.</note> but 'tis <hi>in Chriſt Yea,</hi> that is, like himſelf who is the <hi>ſame yeſterday, to day and for evermore,</hi> Hebr. 13.8. Men indeed too ordinari<g ref="char:EOLhyphen"/>ly dreſs Religion, as the Heathens did their gods, or as the Papiſts do their images, according to the faſhion of the time and place in which they live, and think that there is little or nothing more in it. But be not deceiv'd: God will not ſet his ſeal in water; in a fluid tranſitory <hi>imagination, or opinion;</hi> but in wax; in that underſtanding which (though ductile and flexible) is fit to retain thoſe impreſſions which his <hi>Spirit</hi> ſhall make in it.</p>
+            <p>Secondly, Faith differs from <hi>opinion,</hi> in that <hi>opinion is onely matter of ſpeculation, faith is pra<g ref="char:EOLhyphen"/>ctical</hi> alſo. The ſeat of opinion is onely the head, <hi>but wiih the heart man believes,</hi> Rom. 10.10. To know and aſſent unto the truths in Scripture, will not alone make a man a <hi>believer,</hi> unleſſe ſuch a one as the Devil is,<note place="margin">James 2.19.</note> who <hi>believes and trembles; Interroge te utrùm credis; dicis, credo: fac quod dicis &amp; fidcs eſt.</hi> Aug. 'Tis not a right faith un<g ref="char:EOLhyphen"/>till it <hi>does</hi> what it ſayes. Nay, <hi>faith is with all the heart;</hi> it takes in every <hi>faculty:</hi> for its <hi>object</hi> hath a double aſpect upon the ſoul; firſt as <hi>true,</hi> and ſo it beſpeaks <hi>aſsent</hi> in the <hi>underſtanding;</hi> and then alſo as <hi>good,</hi> and thus it excites and draws forth <hi>the will and affections;</hi> without this latter acting of a truth or promiſe upon the ſoul, a man hath no more benefit by it, then he hath nouriſh<g ref="char:EOLhyphen"/>ment from his food, when he only ſees and believes the wholeſomneſſe of it, but eats it not. Try then your faith by this; you would not take a falſe ſix<g ref="char:EOLhyphen"/>pence;
+<pb n="21" facs="tcp:107481:13"/>and will ye be put off with a falſe jewel, a falſe faith?</p>
+            <p>On the other ſide,<note place="margin">2. Faith is not alwayes an aſſurance. 2 Pet. 1.10.</note> as faith is not an <hi>opinion</hi> bare<g ref="char:EOLhyphen"/>ly, ſo 'tis not an <hi>aſsurance;</hi> for though it be an <hi>e<g ref="char:EOLhyphen"/>vidence,</hi> 'tis of <hi>things not ſeen;</hi> now aſſurance is a kinde of ſight of theſe things.</p>
+            <p>We will ſuppoſe <hi>aſſurance</hi> much to be endeavou<g ref="char:EOLhyphen"/>red after, when the Apoſtle charges us to make <hi>our calling and election ſure;</hi> and indeed there is no <hi>warmth</hi> in a <hi>direct beam.</hi> Faith, which is the <hi>di<g ref="char:EOLhyphen"/>rect act,</hi> (the ſouls going unto, and relying upon Chriſt,) will at length ſave; but the <hi>reflexe act</hi> of <hi>aſsurance</hi> chiefly comforts. Our preſent buſineſſe is to ſhew that they are diſtinct. Conſider then that <hi>faith</hi> is ſo farre from being an <hi>aſsurance,</hi> that it muſt neceſſarily go before it, otherwiſe a man might be <hi>aſſur'd</hi> of what <hi>is not;</hi> and as we are par<g ref="char:EOLhyphen"/>takers of <hi>humane nature,</hi> before that we know we are; and bear the <hi>image of the earthy</hi> before we know we do; ſo we bear the <hi>image of the heavenly;</hi> and be <hi>partakers of the divine nature</hi> before we know of it. There is an infancy or non-age in <hi>both natures</hi> as to us; <hi>and the ſpiritual life here is no more ex<g ref="char:EOLhyphen"/>empted from its weakneſſe, than the natural life is from the infirmities which belong unto it.</hi>
+            </p>
+            <p>I will but name ſome other particular differences.</p>
+            <p n="1">1. Faith is conſtant, 'tis a <hi>ſeed immortal; aſſu<g ref="char:EOLhyphen"/>rance</hi> is not: the <hi>viſion</hi> is ſometimes <hi>taken up,</hi> nay ſuddenly.<note place="margin">Acts 10 16.</note> The <hi>influence</hi> of the Sunne does alwayes remain, but the <hi>light</hi> of the Sun does not; it ſhine, and claps in again.</p>
+            <p n="2">
+               <pb n="22" facs="tcp:107481:14"/> 2. Faith which juſtifies, admits of no degrees; that is, whereſoever it is, it is in its <hi>compleat eſ<g ref="char:EOLhyphen"/>ſence,</hi> or not at all. The ſoul cannot be partly married or united unto Chriſt, and partly not: but on the contrary, <hi>aſsurance</hi> hath <hi>its degrees;</hi> where it is, it is uſually but incompleat; we <hi>know</hi> thus too <hi>but in part;</hi> ſometimes we read our <hi>evidences</hi> by a candle-light as well as other-while by a Sunne<g ref="char:EOLhyphen"/>beam.</p>
+            <p n="3">3. The act of faith is grounded upon Gods Word. <hi>Aſſurance</hi> is chiefly grounded upon expe<g ref="char:EOLhyphen"/>rience; though indeed in both the ſoul is helped by the <hi>Spirit.</hi> Now I have ſaid this the rather for their ſakes, <hi>who walk in darkneſſe and ſee no light:</hi> ſuch <hi>Trees of the Lord</hi> may ſtand and grow,<note place="margin">Iſa. 50. ult.</note> when moſt ſhaken with the winde, and clouded from the Sun.</p>
+            <p>Remember then what ye have heard this day <hi>faith</hi> to be; <hi>viz.</hi> As the miraculous cloud which we read of, (<hi>Exod.</hi> 14.20.) which hath its <hi>light ſide</hi> as 'tis an <hi>evidence;</hi> but hath its <hi>dark ſide</hi> alſo as 'tis <hi>of things not ſeen.</hi>
+            </p>
+            <p>We come to <hi>tell you the condition of a believer,</hi>
+               <note place="margin">2. Inſtruct. In the condition of a believer.</note> which cannot but be <hi>deſirable:</hi> Faith hath made him a great one indeed, richer than the richeſt; 'tis <hi>this man</hi> only that can ſay truly, as they did vainly, <hi>Hoſ.</hi> 12.8. <hi>I have found me out ſubſtance;</hi> a carnal man hath but <hi>ſhadowes, lyes</hi> which he truſts unto. He <hi>may dream he eats,</hi> &amp;c. but if ever God awa<g ref="char:EOLhyphen"/>ken him either here, or hereafter, he ſhall finde <hi>he is hungry,</hi> truly indigent, and full of wants.</p>
+            <pb n="23" facs="tcp:107481:14"/>
+            <p> Oh <hi>man greatly beloved!</hi> this is he that hath made the beſt diſcovery of what before was but a <hi>terra incognita,</hi> an unknown Region; where true Gold and <hi>Jewels</hi> of real <hi>price</hi> are to be found: and to this place he travels all the remainder of his life. nay more, he hath a kind of <hi>poſſeſsion</hi> of it already;<note place="margin">Phil. 3.20.</note> and is whileſt he lives on earth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a <hi>Citizen of heaven,</hi> and <hi>there he hath his conver<g ref="char:EOLhyphen"/>ſation:</hi> enjoying by <hi>faith the happineſſe, and doing by love the duties of that place.</hi> As to earth he is <hi>vel praeſens abſens,</hi> like <hi>Archimedes</hi> at the taking of <hi>Syracuſe,</hi> never minding what becomes of the world and worldly matters. Faith brings him bet<g ref="char:EOLhyphen"/>ter Relations, Riches, Poſſeſſions, then their fading ones are; and therefore as to <hi>heaven,</hi> he is <hi>vel Abſens praeſens,</hi> his heart as another <hi>fore-run<g ref="char:EOLhyphen"/>ner</hi> is entred in. He hath ſent his ſoul as a <hi>Pro<g ref="char:EOLhyphen"/>dromus</hi> to prepare the way for his body. And in the mean while let the winds blow from what cor<g ref="char:EOLhyphen"/>ner they will,<note place="margin">Matth. 7.25.</note> 
+               <hi>impavidum ferient,</hi> they can't cauſe him to make ſhip-wrack of his <hi>ſubſtance.</hi> Thus in the midſt of a ſtorme the nodes of the compaſſe re<g ref="char:EOLhyphen"/>main immovable, when there is nothing elſe in the whole ſhip but is toſſed too and fro. The other things in the ſhip, as the other men of the world, are hurried whither the preſent Tempeſt and ſeaſon carries them. But believers, as the points in the Compaſſe, are fixt at all times; being governed not by the various windes, but by the conſtant hea<g ref="char:EOLhyphen"/>vens.</p>
+            <p>Ah how much then hath the meaneſt true ſer<g ref="char:EOLhyphen"/>vant of God to bleſſe him for? <hi>fleſh and blood hath
+<pb n="24" facs="tcp:107481:15"/>not revealed theſe things,</hi>
+               <note place="margin">Mat. 16.17.</note> acquir'd this <hi>ſubſtance</hi> for them; but <hi>your Father</hi> which is in heaven. Faith is a <hi>ſupernatural</hi> gift, not onely in reſpect of <hi>nature corrupted,</hi> as all other graces be; but in re<g ref="char:EOLhyphen"/>ſpect alſo of nature as 'twas at firſt <hi>created.</hi> Faith is not as other graces, in our regeneration <hi>repaired,</hi> but as it were new built from the ground. Man in innocency, (though he had a power to have obeyed God in whatſoever he ſhould have commanded; yet) he had not <hi>formally</hi> any ſuch a grace as faith; whoſe Object is that very Attribute which <hi>Adam</hi> then had no need of; to wit, <hi>the mercy of God in Chriſt.</hi> And what a vaſt expence was God at to create faith in thee? He made the whole World with a <hi>fiat,</hi> a words ſpeaking: but when the Apo<g ref="char:EOLhyphen"/>ſtle tells us of his making <hi>faith,</hi> Epheſ. 1.19. 'tis, ſayes he, <hi>by the exceeding greatneſſe of his power;</hi> every word hath its weight and <hi>emphaſis,</hi> by no leſs a power then that <hi>which raiſed up Chriſt from his grave,</hi> when the ſin of the world (a grave-ſtone not eaſily to be removed) lay upon him to keep him there.</p>
+            <p>Nay, what ſhall we render for Gods Word ma<g ref="char:EOLhyphen"/>nifeſted in our dayes?<note place="margin">Rom. 10.8.</note> this is the <hi>word of faith.</hi> Let thoſe who think themſelves ſo ſufficiently en<g ref="char:EOLhyphen"/>lightned without it, look upon <hi>Athens</hi> the <hi>eye of Greece,</hi> as <hi>Greece</hi> was (at that time for knowledge) <hi>the eye of the whole world:</hi> And conſider how miſerably blinde and idolatrous it was till <hi>Paul</hi> their <hi>Phoſpho<g ref="char:EOLhyphen"/>rus</hi> came amongſt them. Is the filme over the eye of our mindes leſſe then theirs was?<note place="margin">Acts 17.29.</note> or our <hi>cataracts</hi> eaſilier coutch'd? hath mans nature taken any higher
+<pb n="25" facs="tcp:107481:15"/>
+               <hi>degrees</hi> in knowledge amongſt us, than it did in that <hi>Univerſity?</hi> I fear me, that they who decry the <hi>ſu<g ref="char:EOLhyphen"/>per-intendency</hi> of faith, were it not for thoſe truths which it alone hath <hi>evidenc'd,</hi> (for all their goodly reaſon and parts) would now be a worſhipping an <hi>unknown God</hi> too.</p>
+            <p>But it is time I now haſten to thoſe eſpeci<g ref="char:EOLhyphen"/>al duties which this Text expects from you: be ex<g ref="char:EOLhyphen"/>horted then,</p>
+            <p n="1">1. To labour for faith;<note place="margin">Exhort. 1.</note> 
+               <hi>with all your gettings, get this</hi> way of ſpiritual <hi>knowledge:</hi> what would ye not give for ſuch a <hi>Philoſophers ſtone,</hi> as ſome have fancied; which can turn all things into gold? the <hi>Elixar</hi> of faith can do this. The harſheſt Provi<g ref="char:EOLhyphen"/>dences that believers go through; poverty, ſick<g ref="char:EOLhyphen"/>neſſe, death; nay temptations, deſertions, infir<g ref="char:EOLhyphen"/>mities, &amp;c. onely faith can make them all more <hi>pretious than gold which periſhes:</hi> whereas others have riches,<note place="margin">Eccleſ. 5.13. Rom. 8.28.</note> &amp;c. <hi>for their hurt.</hi> Theſe very <hi>af<g ref="char:EOLhyphen"/>flictions work together for the believer's good:</hi> the <hi>thick cloud</hi> was as beneficial to the <hi>Iſraelites,</hi> as the <hi>fiery pillar.</hi>
+            </p>
+            <p>Faith only can turn your <hi>ſhadowes</hi> into <hi>ſubſtan<g ref="char:EOLhyphen"/>ces:</hi> your <hi>appearances</hi> into <hi>realities.</hi> It hath a kind of <hi>Almightineſs</hi> in it; and can <hi>ſpeak to things that are not, as if they were.</hi> If faith do but ſay, <hi>Let there be light, holineſs, &amp;c.</hi> it ſhall be ſo, Mark 9.23.</p>
+            <p>Other things, as <hi>riches, honours, &amp;c.</hi> they <hi>are not,</hi> though <hi>ſeen:</hi> for <hi>will ye ſet your eyes upon things which are not,</hi>
+               <note place="margin">Prov. 23.5.</note> ſayes God? whilſt you ſay they <hi>are,</hi> they may ceaſe to <hi>be;</hi> and ſo prove you
+<pb n="26" facs="tcp:107481:16"/>a <hi>liar</hi> to your face. but on the contrary: The ob<g ref="char:EOLhyphen"/>jects of faith, as heaven, and the happineſſe there, though <hi>not ſeen,</hi>
+               <note place="margin">Prov. 8<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8.</note> yet they <hi>are,</hi> ſubſtantial and abi<g ref="char:EOLhyphen"/>ding; and ſuch as will never make a ſingle diſap<g ref="char:EOLhyphen"/>pointment. And is not true gold in your <hi>Counting<g ref="char:EOLhyphen"/>houſes,</hi> though <hi>not ſeen,</hi> better than painted gold in a picture, though <hi>ſeen?</hi>
+            </p>
+            <p>The Apoſtle tells us that we ſhould <hi>take the ſhield of faith</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>above all things;</hi> nay, <hi>in</hi> all things. (as <hi>Hierom</hi> reads it) Faith is like ſalt, which <hi>every ſacrifice</hi> muſt be ſalted with; without which, <hi>'tis impoſsible to pleaſe God,</hi> Hebr. 11.6. 'Twas by <hi>faith</hi> only that <hi>Abel</hi> offered <hi>a more ex<g ref="char:EOLhyphen"/>cellent ſacrifice</hi> than <hi>Cain,</hi> Hebr. 11.4. This is the <hi>root</hi> as ye have heard, which though ragged and unlovely in appearance, yet all the fruit of <hi>the Tree of life,</hi> the whole <hi>ſyſteme</hi> of graces are extra<g ref="char:EOLhyphen"/>cted from it. The <hi>dead childe</hi> indeed is <hi>reaſons;</hi> the <hi>living childe,</hi> where it is, is <hi>faiths.</hi>
+            </p>
+            <p>
+               <hi>Be content to make faith your evidence.</hi>
+               <note place="margin">Exhort. 2.</note> To think Gods revealed <hi>will</hi> the <hi>beſt reaſon</hi> that you can yield your aſſent unto. Do not fear 'twill <hi>un<g ref="char:EOLhyphen"/>man</hi> you? ye never come to be <hi>your ſelves,</hi> to act <hi>truly rationally,</hi> till ye come to be believers. The Worldling that followes no better than a glorious bubble, (with the neglect of better objects) is not <hi>himſelf;</hi> and that Scholar that too eagerly purſues <hi>School-divinity</hi> with the neglect of <hi>Scripture-divini<g ref="char:EOLhyphen"/>ty,</hi> is as little <hi>himſelf. Much learning hath made thee mad,</hi>
+               <note place="margin">Acts 26.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> is a truth: only miſtaken by <hi>Feſtus</hi> in the application.</p>
+            <p>If we look for certainty, where can we finde it
+<pb n="27" facs="tcp:107481:16"/>if not with him that neither <hi>deceives, nor can be deceived?</hi> Is not Gods ſole <hi>affirmation</hi> equivalent to all the ſeveral means whereby knowledge is ac<g ref="char:EOLhyphen"/>quit'd? Is an <hi>I ſaw it,</hi> a clearer proof than <hi>God ſaid it?</hi> or is the connexion betwixt the <hi>cauſes</hi> and <hi>effects,</hi> (which poſſibly too are but imagin'd ſuch) more inſeparable than betwixt <hi>Gods Word and Truth? If God be neither ignorant, nor faithleſs in what he affirms, thou art ſure enough.</hi> And leſt ye ſhould be ſcandaliz'd at <hi>believing,</hi> conſider but what confuſion and diſorder there would ſoon be in the world, if in humane affairs themſelves, we ſhould only go by <hi>ſcience,</hi> and <hi>believe</hi> nothing. — <hi>ſi quod noſcitur credendum non eſt, quomodo ſervi<g ref="char:EOLhyphen"/>ent parentibus liberi?</hi>
+               <note place="margin">
+                  <hi>Aug.</hi> De utili<g ref="char:EOLhyphen"/>tate credendi.</note> 'tis Saint <hi>Auſtins</hi> argument. How ſhall children know that theſe are their pa<g ref="char:EOLhyphen"/>rents, whom God hath commanded them to ho<g ref="char:EOLhyphen"/>nour? are not even mothers themſelves cauſ'd to believe their by-ſtanding Friends, Midwives and Nurſes whereby they come to know thoſe children which they ever after ſo tenderly affect?</p>
+            <p>Nay, we are forc'd in worldly matters, to act by a <hi>civil</hi> faith, quite contrary to that, which that that <hi>we ſee,</hi> would perſwade us to. Thus the Husbandman throwes away his ſeed; ſometimes too in unkindly weather; when to be ſure he hath not a demonſtrative knowledge that he ſhall reap any benefit by it. And the Mariners hale their Ships out into the Roades, whilſt the Windes are yet contrary unto them. Well may we then in religi<g ref="char:EOLhyphen"/>ous matters, think it not at all unbecoming us to be acted by a <hi>divine faith:</hi> which whoſoever ſhall take
+<pb n="28" facs="tcp:107481:17"/>away, (let him place what he will in its ſtead) he had as good take away the apple from the eye, or the heart from the body.</p>
+            <p>But what if any ſhould be further inquiſitive af<g ref="char:EOLhyphen"/>ter the reaſons of thoſe things which are aſſerted in Scripture? A poor ſimple believer might anſwer that of <hi>Paul</hi> in ſuch a caſe, <hi>where is the Diſputer of this world?</hi> 1 Cor. 1.20. There is no need of the Diſputers <hi>art,</hi> to defend or oppoſe, where God hath once declared his <hi>will;</hi> which, if all reaſons elſe fail,<note place="margin">Credo quia im<g ref="char:EOLhyphen"/>poſſibile. <hi>Tert.</hi>
+               </note> the faithful <hi>will believe, becauſe 'tis im<g ref="char:EOLhyphen"/>poſsible.</hi> and when the believer is hardeſt put to it; he knowes that he that moderates in the <hi>act,</hi> and ſits in the <hi>Chair of Truth,</hi> is moſt concern'd to ſolve the objections; and ſayes he, <hi>Lord, Thou ſhalt one day anſwer for me.</hi>
+               <note place="margin">Cyril. Hier. Catech. <hi>6. Mat. 4.10.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A bare <hi>it is written,</hi> was enough to confute and confound the ſubtileſt adverſary. — And this is the higheſt honour that ſuch ſorry crea<g ref="char:EOLhyphen"/>tures as we are, can give to God; when for the de<g ref="char:EOLhyphen"/>fence of the leaſt word, but once pronounc'd by him; (notwithſtanding all the contradiction that can be deviſed againſt it) a Chriſtian dares ſuffer, were it poſſible, ten thouſand deaths. <hi>I cannot di<g ref="char:EOLhyphen"/>ſpute,</hi> cries the Martyr, <hi>but I can die.</hi>
+            </p>
+            <p>I confeſſe this is a hard, a very hard duty; we think nothing more eaſie, but we finde nothing more difficult than to <hi>believe.</hi> When God calls for <hi>our eſtates, &amp;c.</hi> none but a ſordid ſpirit will deny them: but when the Lord requires the ſubjection of <hi>all our imaginations,</hi> that our very <hi>reaſon,</hi> like <hi>Si<g ref="char:EOLhyphen"/>meon, ſhould be taken and bound before him.</hi> The
+<pb n="29" facs="tcp:107481:17"/>
+               <hi>Lord pardon his ſervant in this,</hi> cries the worldly <hi>ingenuous perſon. Puduit doctos homines, à Diſci<g ref="char:EOLhyphen"/>pulis Platonis fieri Diſcipulos Chriſti.</hi>
+               <note place="margin">Auguſtine. Fides eſt crede<g ref="char:EOLhyphen"/>re quod non vi<g ref="char:EOLhyphen"/>des; cujus mer<g ref="char:EOLhyphen"/>ces &amp; veritas <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t videre quod cre<g ref="char:EOLhyphen"/>didiſti. <hi>Aug. Tract. 27.</hi> In Johan.</note> He had ra<g ref="char:EOLhyphen"/>ther have <hi>Plato</hi> and <hi>Ariſtotle</hi> for his <hi>Maſters,</hi> who pretend to prove what they ſay; than Chriſt, who requires <hi>belief on his word.</hi> But remember what Saint <hi>Auſtin</hi> ſayes to encourage thee, <hi>if thou now wilt believe what yet thou doſt not ſee, thou ſhalt cer<g ref="char:EOLhyphen"/>tainly ſee; what now thou doeſt believe.</hi> On the other ſide, to ſuch an one who will not <hi>believe</hi> Gods <hi>Word,</hi> the promiſe; unleſſe he <hi>ſees</hi> it: I will ſay to him in the Name of the Lord, as the Pro<g ref="char:EOLhyphen"/>phet did to the Noble-man we read of, 2 <hi>Kings</hi> 7. 2. <hi>Thou ſhalt ſee it</hi> indeed <hi>with thine eyes, but ſhalt not taſt thereof.</hi> I might adde.</p>
+            <p>Be exhorted to have a life anſwerable to this grace of faith;<note place="margin">Exhort. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> this <hi>denominating grace,</hi> whence all Gods children are call'd <hi>believers.</hi> My meaning is; let your converſation be anſwerable to that deſcri<g ref="char:EOLhyphen"/>ption of faith you have now heard of.<note place="margin">Alapide in lo<g ref="char:EOLunhyphen"/>cum.</note> 
+               <hi>Diſce hic quam cogitationes fidelis, &amp; Chriſtiani debeni eſse ſublimes; quam non terrena, praeſentia &amp; caduca; ſed coeleſtia, futura &amp; aeterna; cogitare, ſperare, pro<g ref="char:EOLhyphen"/>ſequi: de iis loqui, &amp; anhelare debeat:</hi> Oh learn to have <hi>high and heavenly thoughts.</hi> Thy portion, <hi>thy line,</hi> is not <hi>faln</hi> here below; not in theſe things that are enjoy'd here, or <hi>ſeen</hi> here: but do not murmure or repine 'tis but according to the ex<g ref="char:EOLhyphen"/>igency of thy condition that God deals thus with thee,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Chry<g ref="char:EOLhyphen"/>ſoſt. in loc. He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 11.1.</note> thou canſt not be a <hi>believer,</hi> and <hi>ſee</hi> or enjoy too. Methinks thy <hi>countenance ſhould be no more ſad: Joy is comely for thee;</hi> which I am in
+<pb n="30" facs="tcp:107481:18"/>the laſt place to offer unto thee; and that in the ſad<g ref="char:EOLhyphen"/>deſt night of affliction that can befall thee.</p>
+            <p>The <hi>evening</hi> in thy <hi>day</hi> is <hi>firſt</hi> too, but art not <hi>thou as one that watch for the morning?</hi>
+               <note place="margin">Conſolation.</note> and when it ſeems darkeſt, the day-light of eternal deliverance is at hand. Faith ſhews thee that ſun-riſing which will never ſet. The cloud of preſent evils is not ſo thick, but faith can ſee through it the <hi>things ho<g ref="char:EOLhyphen"/>ped for.</hi> And what though they be not outward<g ref="char:EOLhyphen"/>ly apparent or viſible? the Trades-man gaines moſt by his ſtock, when 'tis <hi>fartheſt out of ſight.</hi> and when his caſhe at home is low, he may be very rich in commodities he hath abroad. I have read of <hi>Alexander,</hi> that when he went firſt into <hi>Aſia,</hi> he gave away whole countreys, (which he had al<g ref="char:EOLhyphen"/>ready in poſſeſſion,) to his followers; and being asked what he would reſerve for himſelf; he an<g ref="char:EOLhyphen"/>ſwered, <hi>Hope;</hi> and how much more may it ſuf<g ref="char:EOLhyphen"/>fice thee, when all other things are taken away? <hi>it cannot make thee aſham'd</hi> as it might,<note place="margin">Rom. 5.5.</note> and did him. Nay, can all that God is, and hath, ſuffice to cheare and refreſh thee? (he is too covetous indeed that cannot be ſatisfied with God) <hi>Faith makes him, and his to be yours.</hi> (as <hi>love</hi> on the other ſide makes you and yours to be his) Gods <hi>Sonne</hi> is yours for your redemption; his <hi>Spirit</hi> yours, for your ſanctification; his <hi>words</hi> yours, for your in<g ref="char:EOLhyphen"/>ſtruction; his <hi>power</hi> yours, for your protection; his <hi>glory</hi> is yours, for your coronation. I ſhall conclude all with that notable ſaying of <hi>Bernard,</hi> which indeed does <hi>include</hi> ſeveral of the <hi>uſes</hi> fore<g ref="char:EOLhyphen"/>mentioned. <hi>Faith,</hi> ſayes he, tells us, <hi>there are un<g ref="char:EOLhyphen"/>heard
+<pb n="31" facs="tcp:107481:18"/>of, unthought of bleſſings prepar'd:</hi>
+               <note place="margin">Dicit <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ides; pa<g ref="char:EOLhyphen"/>rata ſum magna &amp; inexcogita<g ref="char:EOLhyphen"/>bilia: dicis spas; mibi illa ſer<g ref="char:EOLhyphen"/>vantur: curro ad ca, ait charitas. <hi>Bern. 1. Serm. in Pſal. 90. Mat. 24.46.</hi>
+               </note> Oh ſayes <hi>hope; theſe are prepar'd for me, and kept for me;</hi> well ſayes <hi>cha<g ref="char:EOLhyphen"/>rity,</hi> or <hi>holy love; I'le runne to them,</hi> and <hi>endeavour after them:</hi> to which I will only adde my ſaying too, from the mouth of the Lord. <hi>Bleſſed is that ſervant, whom the Lord when he comes, ſhall finde</hi> ſo <hi>believing,</hi> and ſo <hi>doing.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
